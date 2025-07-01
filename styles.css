@@ -9,6 +9,11 @@ th {
     padding: 0;
 }
 
+td {
+    border-bottom: 2px solid #ddd;
+    padding: 0;
+}
+
 th:nth-child(even),
 td:nth-child(even) {
     border-left: 2px solid #ddd;
